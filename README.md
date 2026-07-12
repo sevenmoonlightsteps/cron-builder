@@ -63,3 +63,7 @@ Or add a `postbuild` script:
 ```json
 "postbuild": "cp _redirects _headers dist/"
 ```
+
+---
+
+Built by [Gabriel Geronimo](https://github.com/sevenmoonlightsteps) - senior full-stack & applied-AI developer. More tools and live demos at [aurealis.ca](https://aurealis.ca).
